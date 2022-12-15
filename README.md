@@ -45,5 +45,12 @@ string_matching = [ 27, 9, 12, 15, 22, 5, 3, 1, 20, 19 ]
 string_matching_reverse = [ 1/27, 1/9, 1/12, 1/15, 1/22, 1/5, 1/3, 1/1, 1/20, 1/19 ]
 ```
 
+## Files and Directory ##
+```
+1. AI - simple encryption alg found from books.png : result
+2. simple_decoder.py : simple codes
+3. README.md : readme file
+```
+
 ## Result image ##
 ![Alt text](https://github.com/jkaewprateep/Simple_encode_decode/blob/main/AI%20-%20simple%20encryption%20alg%20found%20from%20books.png?raw=true "Title")
