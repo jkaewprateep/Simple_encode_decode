@@ -36,7 +36,7 @@ prediction = model.predict(sequences_mapping_string) # an integer
 
 ## Background logics ##
 
-The encode-decoder background logics you can add keys or multiple inputs, I write this colum because to telling you that it is possible to revert back the original meesage when it has the correct conditions and when it is not totally or most of the part need to be repeat in patterns for you to know. Adding key is something as sequences as number from functions as create prime number with are not included 13 as some programs commmunications.
+The encode-decoder background logics you can add keys or multiple inputs, I write this colum because to telling you that it is possible to revert back the original meesage when it has the correct conditions and when it is not totally or most of the part need to be repeat in patterns for you to know. Adding key is something as sequences as number from functions as create prime number with are not included 13 as some programs commmunications. 👧💬 Somebody find me Windows I need to kick butt out there.
 ```
 decoder = tf.keras.layers.StringLookup(vocabulary=vocab, output_mode="int", invert=True)
 result = decoder(sequences_mapping_string)
