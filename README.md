@@ -18,6 +18,7 @@ sequences_mapping_string = tf.constant( sequences_mapping_string, shape=(1,12) )
 ```
 
 ## Networks training ##
+
 Model training for further prediction, if you do text vectorized mapping correct is part is very easy but you need to create of keys + input + variable from environment correctly and you do not need to make too much of the complex message composed that is because we need fast communicatons and it is only valid at the time they are in conversaition, salts or count number they telling space indicated or stikes.
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -34,7 +35,8 @@ prediction = model.predict(sequences_mapping_string) # an integer
 ```
 
 ## Background logics ##
-The encode-decoder background logics you can add keys or multiple input.
+
+The encode-decoder background logics you can add keys or multiple inputs, I write this colum because to telling you that it is possible to revert back the original meesage when it has the correct conditions and when it is not totally or most of the part need to be repeat in patterns for you to know. Adding key is something as sequences as number from functions as create prime number with are not included 13 as some programs commmunications.
 ```
 decoder = tf.keras.layers.StringLookup(vocabulary=vocab, output_mode="int", invert=True)
 result = decoder(sequences_mapping_string)
