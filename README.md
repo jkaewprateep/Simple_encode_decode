@@ -54,3 +54,24 @@ string_matching_reverse = [ 1/27, 1/9, 1/12, 1/15, 1/22, 1/5, 1/3, 1/1, 1/20, 1/
 
 ## Result image ##
 ![Alt text](https://github.com/jkaewprateep/Simple_encode_decode/blob/main/AI%20-%20simple%20encryption%20alg%20found%20from%20books.png?raw=true "Title")
+
+
+## From BAD BOY II Movies ##
+
+| Name | to | Name |
+| --- | --- | --- |
+| DNILE | TOURS | ENGLAND |
+| RICHEL | WILLAMS | HALE |
+| SMITA | JONES | RAFLTTY |
+| WATKINS | HARRINGTON | DELGAIRO |
+| HASTINGS | DUNFACE | ABSENT |
+| AMOUL | | |
+
+| Name | to | Name | Tag |
+| --- | --- | --- | --- |
+| SMITA | GZOSY | FZZYL | GROZZY FENZZY |
+| JONES | YKTUP | WBEJD | KATTUP WE EAT |
+| RAFLTTY | XGLRZZE | ENWQEEZ | AGRACES EVY |
+| WATKINS | YTOQZGC | TYTPKNJ | Y2000 TYPING |
+| HARRINGTO | NGXXOTMZU | BRHYTWINU | NGXXOTMZU BTWEEN U |
+| DELGAIRO | JKRMGOXU | MSTLLCRQ | JACKER GOXU MYSTIL CROWL |
