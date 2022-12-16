@@ -18,7 +18,7 @@ sequences_mapping_string = tf.constant( sequences_mapping_string, shape=(1,12) )
 ```
 
 ## Networks training ##
-Model training for further prediction
+Model training for further prediction, if you do text vectorized mapping correct is part is very easy but you need to create of keys + input + variable from environment correctly and you do not need to make too much of the complex message composed that is because we need fast communicatons and it is only valid at the time they are in conversaition, salts or count number they telling space indicated or stikes.
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 : Model Initialize
