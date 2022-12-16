@@ -1,5 +1,5 @@
 # Simple_encode_decode
-Simple encoding-decoding transmisstion messages for model training results in parameters
+Simple encoding-decoding transmisstion messages for model training results in parameters, you can add one or more input and keys there are many of algorithms including ACS that is default or DCS and many algorithms this one is simplest to learn from networks communciatoins such as TCP/IP and transcription messages.
 
 ## input ##
 Create input as text vectorize
