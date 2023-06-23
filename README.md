@@ -88,3 +88,16 @@ string_matching_reverse = [ 1/27, 1/9, 1/12, 1/15, 1/22, 1/5, 1/3, 1/1, 1/20, 1/
 NVM ( November ) has SNOW GREYS ( local as see same ) all CIVIC ( close friends ) in DORMFRN ( Dorm friends )
 TBS ( Told ) the CUTY MXKEY ( Master Key ) IOBOI ( Pipes ) JUXSLXT ( just lost )
 DIA BFAF ( best friends affort ) TEVDD ( shouts ) PVMNN ( investigation ) QBIRQCO ( Your roots )
+
+
+| column 1 | column 2 |
+| --- | --- |
+| ON07 = LOUD | |
+| EAVH = HAVE | PAJC = ORGA |     
+| AZNW = MUKA | DGKZ = ZXQC |
+| DFLT = ITJC | SHCD = COHS |
+| KXET = THXZ | BCET = LEOE |
+| BCRE = RDOE | BOHS = SH0P |  
+
+🧸💬 News, HAVE ORCA MUKA SEE EX QC IT JACKS CROSS THNXS  LEOERDOE  SHOP‼️
+( 🐨💬 HACKS SENSES LESS SINCE EX QC THEY KNOWS NO TRACKING EVIDENCE OR TARGET IT QUICKS )
