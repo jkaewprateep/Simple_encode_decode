@@ -78,3 +78,13 @@ string_matching_reverse = [ 1/27, 1/9, 1/12, 1/15, 1/22, 1/5, 1/3, 1/1, 1/20, 1/
 | WATKINS | YTOQZGC | TYTPKNJ | Y2000 TYPING |
 | HARRINGTO | NGXXOTMZU | BRHYTWINU | NGXXOTMZU BTWEEN U |
 | DELGAIRO | JKRMGOXU | MSTLLCRQ | JACKER GOXU MYSTIL CROWL |
+
+| word 1 | word 2 | word 3 | word 4 | word 5 |
+| --- | --- | --- | --- | --- |
+| NVM | SNOW | GREYS | CIVIC | DORMFRN | 
+| TBS | CUTY | MXKEY | IOBOI | JUXSLXT |
+| DIA | BFAF | TEVDD | PVMNN | QBIRQCO |
+
+NVM ( November ) has SNOW GREYS ( local as see same ) all CIVIC ( close friends ) in DORMFRN ( Dorm friends )
+TBS ( Told ) the CUTY MXKEY ( Master Key ) IOBOI ( Pipes ) JUXSLXT ( just lost )
+DIA BFAF ( best friends affort ) TEVDD ( shouts ) PVMNN ( investigation ) QBIRQCO ( Your roots )
