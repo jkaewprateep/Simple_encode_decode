@@ -101,3 +101,10 @@ DIA BFAF ( best friends affort ) TEVDD ( shouts ) PVMNN ( investigation ) QBIRQC
 
 🧸💬 News, HAVE ORCA MUKA SEE EX QC IT JACKS CROSS THNXS  LEOERDOE  SHOP‼️
 ( 🐨💬 HACKS SENSES LESS SINCE EX QC THEY KNOWS NO TRACKING EVIDENCE OR TARGET IT QUICKS )
+
+| column 1 | column 2 | column  |
+| --- | --- | --- |
+| BEART | HKGXZ | ORRWE |
+| BEARTH | HKGXZN | SEWRRO |
+| BEYDC | HKEJI | ORPIN |
+| BEARPC | HKGXVI | ORRWAN |
